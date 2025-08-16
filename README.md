@@ -1,3 +1,6 @@
+
+<img width="768" height="297" alt="banner" src="https://github.com/user-attachments/assets/a41dda1c-2f3d-46bf-a438-0e6ab32d3d46" />
+
 🧭 Sobre mí
 
 Senior Android Developer con experiencia en Flutter, iOS y proyectos multiplataforma.
@@ -22,7 +25,7 @@ ERP Migration (Java Swing → JavaFX/Android) · Cliente final en ITV ascensores
 
 Área de Clientes (Angular) · Portal responsive para inspecciones técnicas con filtrado dinámico y descarga de informes PDF.
 
-Web Corporativa (WordPress) · Desarrollo de https://itvmaquinaria.com y https://www.controlp3.net.
+Web Corporativas Realizadas (WordPress) · Desarrollo de https://itvmaquinaria.com , https://www.controlp3.net , https://labarricagastrobar.com/ , 
 
 
 🔥 SpotNews: https://github.com/kno85/SpotNews
