@@ -1,6 +1,3 @@
-
-<img width="768" height="297" alt="banner" src="https://github.com/user-attachments/assets/a41dda1c-2f3d-46bf-a438-0e6ab32d3d46" />
-
 🧭 Sobre mí
 
 Senior Android Developer con experiencia en Flutter, iOS y proyectos multiplataforma.
