@@ -12,7 +12,7 @@ Intereses: accesibilidad, arquitecturas limpias (MVVM, Clean Architecture), Scru
 
 🚀 Proyectos destacados
 
-SpotNews · Flutter · RSS de portada de La Verdad → listado con scroll y recarga + Text‑to‑Speech para accesibilidad (iOS/Android/Web).
+SpotNews · Flutter · RSS de portada de El País→ listado con scroll y recarga + Text‑to‑Speech para accesibilidad (iOS/Android/Web).
 
 People · Kotlin/Jetpack Compose → búsqueda, scroll infinito, dark/light, coroutines + Flow, mappers, tests.
 
