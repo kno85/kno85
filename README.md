@@ -22,7 +22,7 @@ ERP Migration (Java Swing → JavaFX/Android) · Cliente final en ITV ascensores
 
 Área de Clientes (Angular) · Portal responsive para inspecciones técnicas con filtrado dinámico y descarga de informes PDF.
 
-Web Corporativas Realizadas (WordPress) · Desarrollo de https://itvmaquinaria.com , https://www.controlp3.net , https://labarricagastrobar.com/ , 
+Web Corporativas Realizadas (WordPress) · Desarrollo de https://22dimensiones.com/ , https://itvmaquinaria.com , https://www.controlp3.net , https://labarricagastrobar.com/ , 
 
 
 🔥 SpotNews: https://github.com/kno85/SpotNews
