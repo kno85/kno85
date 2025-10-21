@@ -32,6 +32,6 @@ Web Corporativas Realizadas (WordPress) · Desarrollo de https://22dimensiones.c
 🍎 People iOS (Swift): https://github.com/kno85/PeopleIos
 
 🌐 LinkedIn: Antonio Cano Almagro
-
+https://www.linkedin.com/in/antoniocanoalmagro/
 
 -->
